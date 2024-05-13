@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sport>
+	<ora>
+		<ora>1</ora>
+        <stire>Tenis: Turneu de Grand Slam</stire>
+    </ora>
+    <ora>
+		<ora>2</ora>
+        <stire>Fotbal: Meci amical</stire>
+    </ora>
+    <ora>
+		<ora>3</ora>
+        <stire>Baschet: Finală campionat local</stire>
+    </ora>
+    <ora>
+		<ora>4</ora>
+        <stire>Inot: Finala campionat mondial</stire>
+    </ora>
+    <ora>
+		<ora>5</ora>
+        <stire>Tenis: Meci amical</stire>
+    </ora>
+    <ora>
+		<ora>6</ora>
+        <stire>Fotbal: Meci campionat national</stire>
+    </ora>
+    <ora>
+		<ora>7</ora>
+        <stire>Baschet: Finală cupă internațională</stire>
+    </ora>
+    <ora>
+		<ora>8</ora>
+        <stire>Tenis: Turneu Masters</stire>
+    </ora>
+    <ora>
+		<ora>9</ora>
+        <stire>Baschet: Meci campionat regional</stire>
+    </ora>
+    <ora>
+		<ora>10</ora>
+        <stire>Fotbal: Meci simplu</stire>
+    </ora>
+    <ora>
+		<ora>11</ora>
+        <stire>Tenis: Finală cupă locală</stire>
+    </ora>
+    <ora>
+		<ora>12</ora>
+        <stire>Golf: Meci amical</stire>
+    </ora>
+</sport>

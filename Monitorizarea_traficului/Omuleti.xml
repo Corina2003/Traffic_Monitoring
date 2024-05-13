@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omuleti>
+    <omulet utilizator="corina" parola="corinasamson" conectat="nu" vreme="nu" PECO="nu" sport="nu"/>
+    <omulet utilizator="catalin" parola="catalinsamson" conectat="nu" vreme="nu" PECO="nu" sport="nu"/>
+    <omulet utilizator="viorel" parola="viorelsamson" conectat="nu" vreme="nu" PECO="nu" sport="nu"/>
+    <omulet utilizator="ioana" parola="ioanamuha" conectat="nu" vreme="nu" PECO="nu" sport="nu"/>
+    <omulet utilizator="eden" parola="edenpetrescu" conectat="nu" vreme="nu" PECO="nu" sport="nu"/>
+    <omulet utilizator="gabriela" parola="gabrielasamson" conectat="da" vreme="nu" PECO="nu" sport="nu"/>
+    <omulet utilizator="anca" parola="ancaiacob" conectat="nu" vreme="nu" PECO="nu" sport="nu"/>
+</omuleti>
